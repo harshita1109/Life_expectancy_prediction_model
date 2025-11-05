@@ -95,12 +95,9 @@ pip install pandas numpy scikit-learn joblib
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author -- Harshita Sharma
 
-**Beast Gaming**  
-B.Tech (CSE - AI/ML) | 3rd Year  
-📘 Course: BOE-068 Software Project Management  
-💼 Project Type: Machine Learning / Data Science  
+ 
 
 ---
 
